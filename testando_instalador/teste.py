@@ -1,0 +1,1 @@
+print("testando a instalacao do python")
